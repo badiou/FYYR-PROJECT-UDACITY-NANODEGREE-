@@ -1,4 +1,4 @@
-Fyyur
+Fyyur Project
 -----
 
 ### Introduction
